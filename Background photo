@@ -1,1 +1,8 @@
 
+{
+  "app_name": "Tech99Guru Chatroom",
+  "app_version": "1.0",
+  "update_url": "https://tech99guru.com/update.apk",
+  "background_image": "https://raw.githubusercontent.com/121fight/Chatroom-/refs/heads/main/Background%20photo",
+  "ludo_enabled": true
+}
